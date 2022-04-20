@@ -1,0 +1,11 @@
+Model Information:
+* title:	F1 2000 Steering Wheel Sketchfab.blend
+* source:	https://sketchfab.com/3d-models/f1-2000-steering-wheel-sketchfabblend-l7EUZXchxI56IfCp92RpZOmlMQs
+* author:	Maxence Leret d'Aubigny (https://sketchfab.com/ahurig)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "F1 2000 Steering Wheel Sketchfab.blend" (https://sketchfab.com/3d-models/f1-2000-steering-wheel-sketchfabblend-l7EUZXchxI56IfCp92RpZOmlMQs) by Maxence Leret d'Aubigny (https://sketchfab.com/ahurig) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
